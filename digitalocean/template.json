@@ -16,7 +16,6 @@
       "type": "shell",
       "inline": [
         "export DEBIAN_FRONTEND=noninteractive",
-        "echo foo",
         "apt-get update -yqq",
         "apt-get upgrade -yqq",
         "apt-get install -yqq python-minimal python-setuptools dmidecode"
