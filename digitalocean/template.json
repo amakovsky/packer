@@ -28,7 +28,5 @@
       "groups": ["asterisk"],
       "extra_arguments": ["--vault-password-file", "/root/vault"]
     }
-
-
   ]
 }
